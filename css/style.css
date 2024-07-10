@@ -1,5 +1,14 @@
+body {
+    margin: 0;
+}
+
 title {
-    background-color: aqua;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    border: 2px solid black;
     text-align: center;
-    text-decoration-color: black;
+    padding: 10px;
+    z-index: 100;
 }
